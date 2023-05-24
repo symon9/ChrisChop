@@ -176,7 +176,7 @@ const menu = [
     price: "8,500",
     img: "./food/pork-ribs-barbeque-sauce-parsley-bread-main-dish-39463820.jpg",
     desc: `Tender, succulent BBQ ribs slow-cooked to perfection, coated in a smoky sauce that will leave you craving more. `,
-    buy: "https://www.buy.com ",
+    buy: "  ",
     btc: "https://www.pay.com "
   },
   {
