@@ -6,7 +6,7 @@ const menu = [
     price: "8,500",
     img: "./food/nigerian-food-party-jollof-rice-fried-chicken-wings-close-nigerian-food-party-jollof-rice-fried-chicken-wings-close-up-112895117.jpg",
     desc: `Savoury west african classic, aromatic basmati rice cooked with seasoned chicken, onions, tomatoes and peppers. Served with plantains and coleslaw.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/tasty-jollof-rice",
     btc: "https://www.pay.com "
   },
   {
@@ -16,7 +16,7 @@ const menu = [
     price: "3,000",
     img: "./food/suya.jpg",
     desc: `Spicy grilled meat skewers originating from west africa, typically made with beef, chicken or goat , and served with onions and peppers.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/suya",
     btc: "https://www.pay.com "
   },
   {
@@ -26,7 +26,7 @@ const menu = [
     price: "4,200",
     img: "./food/yam-fried-egg-sauce-yam-fried-egg-sauce-served.jpg",
     desc: `A delicious combination of sauted yam cubes and scrambled eggs in a savory tomato and pepper sauce. Perfect for breakfast or brunch.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/yam-and-egg-sauce ",
     btc: "https://www.pay.com "
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     price: "6,500",
     img: "./food/pounded-yam-garri-eba-served-egusi-soup-pounded-yam-garri-eba-served-egusi-soup-ready-to-eat-242067261.jpg",
     desc: `Traditional nigerian dish of smooth, fluffy pounded yam served with hearty egusi soup made from ground melon seeds and vegetables.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/pounded-yam--egusi-soup",
     btc: "https://www.pay.com "
   },
   {
@@ -46,7 +46,7 @@ const menu = [
     price: "8,000",
     img: "./food/jollof-rice-west-african-cuisine-chicken-fried-plantain-86976048.jpg",
     desc: `Savor the traditional flavor of west african cuisine with our delectable jollof rice served with sweet and savory plantains.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/jollof-rice--plantain",
     btc: "https://www.pay.com "
   },
   {
@@ -56,7 +56,7 @@ const menu = [
     price: "7,500",
     img: "./food/white-bowl-nigerian-dish-garri-eba-oha-soup-cooked-assorted-meat-beef-dried-fish-cow-belly-shaki-decorated-green-191916788.jpg",
     desc: `A classic nigerian dish featuring smooth cassava paste served with a delicious soup containing cocoyam and ora leaves.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/eba--oha-soup ",
     btc: "https://www.pay.com "
   },
   {
@@ -66,7 +66,7 @@ const menu = [
     price: "2,000",
     img: "./food/nigerian-deep-fried-akara-beancake-served-custard-breakfast-221092985.jpg",
     desc: `Delicious west african fritters made with black-eyed peas served alongside creamy vanilla custard - the perfect sweet and savory combo. `,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/akara--custard",
     btc: "https://www.pay.com "
   },
   {
@@ -76,7 +76,7 @@ const menu = [
     price: "4,500",
     img: "./food/tasty-nigerian-goat-meat-pepper-soup-garnished-sliced-white-bowl-193486301.jpg",
     desc: `tasty goat meat pepper soup garnished in a richly flavored broth with aromatic spices and fresh herbs. Perfect comfort food.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/goat-meat-pepper-soup ",
     btc: "https://www.pay.com "
   },
   {
@@ -86,7 +86,7 @@ const menu = [
     price: "7,500",
     img: "./food/regional-african-food-white-plate-wooden-background-156594464.jpg",
     desc: `Savory combination of tender chicken and fluffy rice, seasoned to perfection for a satisfying and flavorful meal.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/rice--chicken ",
     btc: "https://www.pay.com "
   },
   {
@@ -96,7 +96,7 @@ const menu = [
     price: "6,500",
     img: "./food/nigerian-food-delicious-roasted-fish-fried-plantain-chilli-pepper-source-black-tray-nigerian-food-delicious-roasted-185024883.jpg",
     desc: `Deliciously tender roasted fish paired with gloden plantain slices, a delightful combination of flavors and textures.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/roasted-fish--fried-plantain",
     btc: "https://www.pay.com "
   },
   {
@@ -106,7 +106,7 @@ const menu = [
     price: "9,000",
     img: "./food/Roasted-Turkey-Strips-seasoned-with-Delicate-Suya-Spice.jpg.webp",
     desc: `Roasted Turkey Strips seasoned with Delicate Suya Spice served with a side of your choice. A delicious protein-packed option! `,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/roasted-turkey-strips",
     btc: "https://www.pay.com "
   },
   {
@@ -116,7 +116,7 @@ const menu = [
     price: "8,500",
     img: "./food/spicy-chicken-curry-rice-dish-33990542.jpg",
     desc: `Savory rice paired with tender, succulent spicy chicken, a perfect harmony of flavors that will tantalize your taste buds. `,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/rice-and-spicy-chicken",
     btc: "https://www.pay.com "
   },
   {
@@ -126,7 +126,7 @@ const menu = [
     price: "5,500",
     img: "./food/african-food-spicy-suya-kebab-skewers-fresh-vegetable-s-african-food-spicy-suya-kebab-skewers-fresh-vegetable-125581653.jpg",
     desc: `Savory grilled skewers bursting with african flavors, marinated in fiery spices for an irresistible kick. `,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/spicy-suya",
     btc: "https://www.pay.com "
   },
   {
@@ -136,7 +136,7 @@ const menu = [
     price: "3,500",
     img: "./food/spaghetti-bolognese-cheese-basil-43039406.jpg",
     desc: `Classic italian pasta dish featuring long, thin noodles tossed in a savory tomato sauce, topped with grated cheese.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/spaghetti",
     btc: "https://www.pay.com "
   },
   {
@@ -146,7 +146,7 @@ const menu = [
     price: "5,500",
     img: "./food/regional-african-food-white-plate-wooden-background-156594174.jpg",
     desc: `Delicious plantain paired with tender, spicy chicken, a perfect combination of flavors that will tantalize your taste buds. `,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/plantain-and-spicy-chicken",
     btc: "https://www.pay.com "
   },
   {
@@ -156,7 +156,7 @@ const menu = [
     price: "4,500",
     img: "./food/pork-spare-ribs-bbq-sauce-white-plate-salad-drink-background-39324425.jpg",
     desc: `Delicious tender pork BBQ ribs, slow-cooked to perfection and coated in a finger-licking BBQ sauce. A mouthwatering indulgence.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/pork-bbq-ribs",
     btc: "https://www.pay.com "
   },
   {
@@ -166,7 +166,7 @@ const menu = [
     price: "7,000",
     img: "./food/fried-plantains-gizzard-stew-fresh-tomatoes-nigerian-food-delicacy-lettuce-white-plate-136371512.jpg",
     desc: `Crispy fried plantains paired with tender gizzards, a delightful combination of textures and flavors. perfectly satisfying and delicious.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/fried-plantain-gizzard",
     btc: "https://www.pay.com "
   },
   {
@@ -176,7 +176,7 @@ const menu = [
     price: "8,500",
     img: "./food/pork-ribs-barbeque-sauce-parsley-bread-main-dish-39463820.jpg",
     desc: `Tender, succulent BBQ ribs slow-cooked to perfection, coated in a smoky sauce that will leave you craving more. `,
-    buy: "  ",
+    buy: "https://paystack.com/buy/barbeque-ribs",
     btc: "https://www.pay.com "
   },
   {
@@ -186,7 +186,7 @@ const menu = [
     price: "5,500",
     img: "./food/grilled-steak-french-fries-vegetables-plate-white-background-43561526.jpg",
     desc: `steak french fries vegetables, a classic and satisfying combination that will tantalize your buds.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/steak-french-fries",
     btc: "https://www.pay.com "
   },
   {
@@ -196,7 +196,7 @@ const menu = [
     price: "3,500",
     img: "./food/grilled-meat-sausages-16190298.jpg",
     desc: `Juicy grilled meat sausages bursting with flavors, served with a side of tangy condiments. A meat lover's delight!`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/grilled-meat-sausages",
     btc: "https://www.pay.com "
   },
   {
@@ -206,7 +206,7 @@ const menu = [
     price: "6,000",
     img: "./food/pulled-pork-bbq-sauce-blue-plate-shot-selective-focus-40956184.jpg",
     desc: `Juicy beef patty, melted cheese, crisp lettuce, and tangy sauce nestled in a toasted bun. Pure burger perfection! `,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/two-burgers",
     btc: "https://www.pay.com "
   },
   {
@@ -216,7 +216,7 @@ const menu = [
     price: "8,000",
     img: "./food/roast-chicken-5469759.jpg",
     desc: `Succulent, gloden-brown roasted chicken, seasoned to perfection, offering a mouthwatering blend of flavors and juicy tenderness.`,
-    buy: "https://www.buy.com ",
+    buy: "https://paystack.com/buy/roasted-chicken",
     btc: "https://www.pay.com "
   },
 ];
@@ -244,7 +244,7 @@ function diplayMenuItems(menuItems) {
             <p class="item-text">
               ${item.desc}
               <p class="pay">
-              <a class="btc" id="btc" href="${item.btc}">Pay with Bitcoin</a>
+              <!-- <a class="btc" id="btc" href="${item.btc}">Pay with Bitcoin</a> -->
               <a class="buy" id="buy" href="${item.buy}">Buy now</a>
               </p>
             </p>
