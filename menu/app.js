@@ -7,7 +7,7 @@ const menu = [
     img: "./food/nigerian-food-party-jollof-rice-fried-chicken-wings-close-nigerian-food-party-jollof-rice-fried-chicken-wings-close-up-112895117.jpg",
     desc: `Savoury west african classic, aromatic basmati rice cooked with seasoned chicken, onions, tomatoes and peppers. Served with plantains and coleslaw.`,
     buy: "https://paystack.com/buy/tasty-jollof-rice",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/3b7ccb0fcf4946ac"
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const menu = [
     img: "./food/suya.jpg",
     desc: `Spicy grilled meat skewers originating from west africa, typically made with beef, chicken or goat , and served with onions and peppers.`,
     buy: "https://paystack.com/buy/suya",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/4e8d05afc42b4a06"
   },
   {
     id: 3,
@@ -244,7 +244,7 @@ function diplayMenuItems(menuItems) {
             <p class="item-text">
               ${item.desc}
               <p class="pay">
-              <!-- <a class="btc" id="btc" href="${item.btc}">Pay with Bitcoin</a> -->
+              <!-- <a class="btc" id="btc" href="${item.btc}">Pay with Bitcoin <i class="fa-brands fa-bitcoin  fa-lg" style="color: #ffffff; padding-left: 2px;"></i> </a> -->
               <a class="buy" id="buy" href="${item.buy}">Buy now</a>
               </p>
             </p>
