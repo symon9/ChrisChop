@@ -244,8 +244,8 @@ function diplayMenuItems(menuItems) {
             <p class="item-text">
               ${item.desc}
               <p class="pay">
-              <a class="btc" id="btc" href="${item.btc}">Pay with Bitcoin <i class="fa-brands fa-bitcoin  fa-lg" style="color: #ffffff; padding-left: 2px;"></i> </a>
-              <a class="buy" id="buy" href="${item.buy}">Buy now</a>
+              <a class="btc" id="btc" target="_blank" href="${item.btc}">Pay with Bitcoin <i class="fa-brands fa-bitcoin  fa-lg" style="color: #ffffff; padding-left: 2px;"></i> </a>
+              <a class="buy" id="buy" target="_blank" href="${item.buy}">Buy now</a>
               </p>
             </p>
           </div>
