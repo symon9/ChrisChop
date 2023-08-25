@@ -13,7 +13,7 @@ const menu = [
     id: 2,
     title: "Suya",
     category: "lunch",
-    price: "3,000",
+    price: "1,000",
     img: "./food/suya.jpg",
     desc: `Spicy grilled meat skewers originating from west africa, typically made with beef, chicken or goat , and served with onions and peppers.`,
     buy: "https://paystack.com/buy/suya",
@@ -27,7 +27,7 @@ const menu = [
     img: "./food/yam-fried-egg-sauce-yam-fried-egg-sauce-served.jpg",
     desc: `A delicious combination of sauted yam cubes and scrambled eggs in a savory tomato and pepper sauce. Perfect for breakfast or brunch.`,
     buy: "https://paystack.com/buy/yam-and-egg-sauce ",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/5228403dff3a4a53"
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const menu = [
     img: "./food/pounded-yam-garri-eba-served-egusi-soup-pounded-yam-garri-eba-served-egusi-soup-ready-to-eat-242067261.jpg",
     desc: `Traditional nigerian dish of smooth, fluffy pounded yam served with hearty egusi soup made from ground melon seeds and vegetables.`,
     buy: "https://paystack.com/buy/pounded-yam--egusi-soup",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/5814a6a10b9342e7"
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ const menu = [
     img: "./food/jollof-rice-west-african-cuisine-chicken-fried-plantain-86976048.jpg",
     desc: `Savor the traditional flavor of west african cuisine with our delectable jollof rice served with sweet and savory plantains.`,
     buy: "https://paystack.com/buy/jollof-rice--plantain",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/a11c8dec40a44bcb"
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ const menu = [
     img: "./food/white-bowl-nigerian-dish-garri-eba-oha-soup-cooked-assorted-meat-beef-dried-fish-cow-belly-shaki-decorated-green-191916788.jpg",
     desc: `A classic nigerian dish featuring smooth cassava paste served with a delicious soup containing cocoyam and ora leaves.`,
     buy: "https://paystack.com/buy/eba--oha-soup ",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/0d3367652ee6434c"
   },
   {
     id: 7,
@@ -67,7 +67,7 @@ const menu = [
     img: "./food/nigerian-deep-fried-akara-beancake-served-custard-breakfast-221092985.jpg",
     desc: `Delicious west african fritters made with black-eyed peas served alongside creamy vanilla custard - the perfect sweet and savory combo. `,
     buy: "https://paystack.com/buy/akara--custard",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/ee8223899ffa44cc"
   },
   {
     id: 8,
@@ -77,7 +77,7 @@ const menu = [
     img: "./food/tasty-nigerian-goat-meat-pepper-soup-garnished-sliced-white-bowl-193486301.jpg",
     desc: `tasty goat meat pepper soup garnished in a richly flavored broth with aromatic spices and fresh herbs. Perfect comfort food.`,
     buy: "https://paystack.com/buy/goat-meat-pepper-soup ",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/7a3f89b116a240da"
   },
   {
     id: 9,
@@ -87,7 +87,7 @@ const menu = [
     img: "./food/regional-african-food-white-plate-wooden-background-156594464.jpg",
     desc: `Savory combination of tender chicken and fluffy rice, seasoned to perfection for a satisfying and flavorful meal.`,
     buy: "https://paystack.com/buy/rice--chicken ",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/81a98310f8584d18"
   },
   {
     id: 10,
@@ -97,7 +97,7 @@ const menu = [
     img: "./food/nigerian-food-delicious-roasted-fish-fried-plantain-chilli-pepper-source-black-tray-nigerian-food-delicious-roasted-185024883.jpg",
     desc: `Deliciously tender roasted fish paired with gloden plantain slices, a delightful combination of flavors and textures.`,
     buy: "https://paystack.com/buy/roasted-fish--fried-plantain",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/2215065a1e334b2b"
   },
   {
     id: 11,
@@ -107,7 +107,7 @@ const menu = [
     img: "./food/Roasted-Turkey-Strips-seasoned-with-Delicate-Suya-Spice.jpg.webp",
     desc: `Roasted Turkey Strips seasoned with Delicate Suya Spice served with a side of your choice. A delicious protein-packed option! `,
     buy: "https://paystack.com/buy/roasted-turkey-strips",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/1e2a958129ba41c2"
   },
   {
     id: 12,
@@ -117,7 +117,7 @@ const menu = [
     img: "./food/spicy-chicken-curry-rice-dish-33990542.jpg",
     desc: `Savory rice paired with tender, succulent spicy chicken, a perfect harmony of flavors that will tantalize your taste buds. `,
     buy: "https://paystack.com/buy/rice-and-spicy-chicken",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/9c3c797ac8984cba"
   },
   {
     id: 13,
@@ -127,7 +127,7 @@ const menu = [
     img: "./food/african-food-spicy-suya-kebab-skewers-fresh-vegetable-s-african-food-spicy-suya-kebab-skewers-fresh-vegetable-125581653.jpg",
     desc: `Savory grilled skewers bursting with african flavors, marinated in fiery spices for an irresistible kick. `,
     buy: "https://paystack.com/buy/spicy-suya",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/45707c7cf4094cd9"
   },
   {
     id: 14,
@@ -137,7 +137,7 @@ const menu = [
     img: "./food/spaghetti-bolognese-cheese-basil-43039406.jpg",
     desc: `Classic italian pasta dish featuring long, thin noodles tossed in a savory tomato sauce, topped with grated cheese.`,
     buy: "https://paystack.com/buy/spaghetti",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/1fbd93b8fc7848aa"
   },
   {
     id: 15,
@@ -147,7 +147,7 @@ const menu = [
     img: "./food/regional-african-food-white-plate-wooden-background-156594174.jpg",
     desc: `Delicious plantain paired with tender, spicy chicken, a perfect combination of flavors that will tantalize your taste buds. `,
     buy: "https://paystack.com/buy/plantain-and-spicy-chicken",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/3ddac9d27adb44b3"
   },
   {
     id: 16,
@@ -157,7 +157,7 @@ const menu = [
     img: "./food/pork-spare-ribs-bbq-sauce-white-plate-salad-drink-background-39324425.jpg",
     desc: `Delicious tender pork BBQ ribs, slow-cooked to perfection and coated in a finger-licking BBQ sauce. A mouthwatering indulgence.`,
     buy: "https://paystack.com/buy/pork-bbq-ribs",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/e5d8c39ed9a541d6"
   },
   {
     id: 17,
@@ -167,7 +167,7 @@ const menu = [
     img: "./food/fried-plantains-gizzard-stew-fresh-tomatoes-nigerian-food-delicacy-lettuce-white-plate-136371512.jpg",
     desc: `Crispy fried plantains paired with tender gizzards, a delightful combination of textures and flavors. perfectly satisfying and delicious.`,
     buy: "https://paystack.com/buy/fried-plantain-gizzard",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/c33c93628aba431d"
   },
   {
     id: 18,
@@ -177,7 +177,7 @@ const menu = [
     img: "./food/pork-ribs-barbeque-sauce-parsley-bread-main-dish-39463820.jpg",
     desc: `Tender, succulent BBQ ribs slow-cooked to perfection, coated in a smoky sauce that will leave you craving more. `,
     buy: "https://paystack.com/buy/barbeque-ribs",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/a5e41c8b42e24714"
   },
   {
     id: 19,
@@ -187,7 +187,7 @@ const menu = [
     img: "./food/grilled-steak-french-fries-vegetables-plate-white-background-43561526.jpg",
     desc: `steak french fries vegetables, a classic and satisfying combination that will tantalize your buds.`,
     buy: "https://paystack.com/buy/steak-french-fries",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/c34cba016e11465d"
   },
   {
     id: 20,
@@ -197,7 +197,7 @@ const menu = [
     img: "./food/grilled-meat-sausages-16190298.jpg",
     desc: `Juicy grilled meat sausages bursting with flavors, served with a side of tangy condiments. A meat lover's delight!`,
     buy: "https://paystack.com/buy/grilled-meat-sausages",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/487d3ee54cc94190"
   },
   {
     id: 21,
@@ -207,7 +207,7 @@ const menu = [
     img: "./food/pulled-pork-bbq-sauce-blue-plate-shot-selective-focus-40956184.jpg",
     desc: `Juicy beef patty, melted cheese, crisp lettuce, and tangy sauce nestled in a toasted bun. Pure burger perfection! `,
     buy: "https://paystack.com/buy/two-burgers",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/e278ac579cb4484e"
   },
   {
     id: 22,
@@ -217,7 +217,7 @@ const menu = [
     img: "./food/roast-chicken-5469759.jpg",
     desc: `Succulent, gloden-brown roasted chicken, seasoned to perfection, offering a mouthwatering blend of flavors and juicy tenderness.`,
     buy: "https://paystack.com/buy/roasted-chicken",
-    btc: "https://www.pay.com "
+    btc: "https://www.blockonomics.co/pay-url/4b667a9c9a82487d"
   },
 ];
 // get parent element
