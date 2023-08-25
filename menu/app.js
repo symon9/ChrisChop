@@ -14,7 +14,7 @@ const menu = [
     title: "Suya",
     category: "lunch",
     price: "1,000",
-    img: "./food/suya.jpg",
+    img: "./food/Suya.jpg",
     desc: `Spicy grilled meat skewers originating from west africa, typically made with beef, chicken or goat , and served with onions and peppers.`,
     buy: "https://paystack.com/buy/suya",
     btc: "https://www.blockonomics.co/pay-url/4e8d05afc42b4a06"
