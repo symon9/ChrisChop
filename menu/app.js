@@ -1,10 +1,10 @@
 const menu = [
   {
     id: 1,
-    title: "Jollof Rice",
+    title: "Jollof Rice & meat",
     category: "lunch",
     price: "8,500",
-    img: "./food/nigerian-food-party-jollof-rice-fried-chicken-wings-close-nigerian-food-party-jollof-rice-fried-chicken-wings-close-up-112895117.jpg",
+    img: "./food/jollof-rice.jpg",
     desc: `Savoury west african classic, aromatic basmati rice cooked with seasoned chicken, onions, tomatoes and peppers. Served with plantains and coleslaw.`,
     buy: "https://paystack.com/buy/tasty-jollof-rice",
     btc: "https://www.blockonomics.co/pay-url/3b7ccb0fcf4946ac"
@@ -14,7 +14,7 @@ const menu = [
     title: "Suya",
     category: "lunch",
     price: "1,000",
-    img: "./food/Suya.jpg",
+    img: "./food/suyaa.jpg",
     desc: `Spicy grilled meat skewers originating from west africa, typically made with beef, chicken or goat , and served with onions and peppers.`,
     buy: "https://paystack.com/buy/suya",
     btc: "https://www.blockonomics.co/pay-url/4e8d05afc42b4a06"
